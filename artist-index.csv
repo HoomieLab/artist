@@ -1,0 +1,154 @@
+genre,artist,musicbrainz_id
+pop,Michael Jackson,f27ec8db-af05-4f36-916e-3d57f91ecf5e
+pop,Madonna,79239441-bfd5-4981-a70c-55c3f15c1287
+pop,Whitney Houston,0307edfc-437c-4b48-8700-80680e66a228
+pop,ABBA,d87e52c5-bb8d-4da8-b941-9f4928627dc8
+pop,Elton John,b83bc61f-8451-4a5d-8b8e-7e9ed295e822
+pop,Prince,070d193a-845c-479f-980e-bef15710653e
+pop,Janet Jackson,6be2828f-6c0d-4059-99d4-fa18acf1a296
+pop,Mariah Carey,494e8d09-f85b-4543-892f-a5096aed1cd4
+pop,Britney Spears,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76
+pop,Backstreet Boys,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad
+pop,*NSYNC,603ba565-3967-4be1-931e-9cb945394e86
+pop,Spice Girls,bf0caafc-2b20-4e07-ab85-87e14ff430ce
+pop,Christina Aguilera,b202beb7-99bd-47e7-8b72-195c8d72ebdd
+pop,Justin Timberlake,596ffa74-3d08-44ef-b113-765d43d12738
+pop,Beyoncé,859d0860-d480-4efd-970c-c05d5f1776b8
+pop,Rihanna,73e5e69d-3554-40d8-8516-00cb38737a1c
+pop,Lady Gaga,650e7db6-b795-4eb5-a702-5ea2fc46c848
+pop,Katy Perry,122d63fc-8671-43e4-9752-34e846d62a9c
+pop,Taylor Swift,20244d07-534f-4eff-b4d4-930878889970
+pop,Adele,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493
+pop,Bruno Mars,afb680f2-b6eb-4cd7-a70b-a63b25c763d5
+pop,Ed Sheeran,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6
+pop,Justin Bieber,e0140a67-e4d1-4f13-8a01-364355bee46e
+pop,Kelly Clarkson,d339efbb-77b9-4147-ba9e-59f2f24550b2
+pop,P!nk,f4d5cc07-3bc9-4836-9b15-88a08359bc63
+pop,Cyndi Lauper,7bd9e20e-74b9-446a-a2ed-a223f82a36e7
+pop,George Michael,ccb8f30e-4d71-40c4-8b1d-846dafe73e2c
+pop,Lionel Richie,3cb25fb2-5547-4b05-adec-1a5e37830d46
+pop,Bee Gees,bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810
+pop,Phil Collins,401c3991-b76b-499d-8082-9f2df958ef78
+pop,Shania Twain,faabb55d-3c9e-4c23-8779-732ac2ee2c0d
+pop,Ariana Grande,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387
+pop,Maroon 5,0ab49580-c84f-44d4-875f-d83760ea2cfe
+pop,Lorde,8e494408-8620-4c6a-82c2-c2ca4a1e4f12
+rock,Fleetwood Mac,bd13909f-1c29-4c27-a874-d4aaf27c5b1a
+rock,Eagles,f46bd570-5768-462e-b84c-c7c993bbf47e
+rock,Led Zeppelin,678d88b2-87b0-403b-b63d-5da7465aecc3
+rock,Queen,0383dadf-2a4e-4d10-a46a-e9e041da8eb3
+rock,AC/DC,66c662b6-6e2f-4930-8610-912e24c63ed1
+rock,Aerosmith,3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+rock,Bruce Springsteen,70248960-cb53-4ea4-943a-edb18f7d336f
+rock,Tom Petty and the Heartbreakers,f93dbc64-6f08-4033-bcc7-8a0bb4689849
+rock,Journey,abd506e1-6f2b-4d6f-b937-92c267f6f88b
+rock,Boston,0d8b0d50-e4cf-4da4-965d-f24c58ec3268
+rock,Heart,bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9
+rock,Van Halen,b665b768-0d83-4363-950c-31ed39317c15
+rock,Bon Jovi,5dcdb5eb-cb72-4e6e-9e63-b7bace604965
+rock,Def Leppard,7249b899-8db8-43e7-9e6e-22f1e736024e
+rock,Guns N’ Roses,eeb1195b-f213-4ce1-b28c-8565211f8e43
+rock,U2,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+rock,The Police,9e0e2b01-41db-4008-bd8b-988977d6019a
+rock,Dire Straits,614e3804-7d34-41ba-857f-811bad7c2b7a
+rock,Pink Floyd,83d91898-7763-47d7-b03b-b92132375c47
+rock,Billy Joel,64b94289-9474-4d43-8c93-918ccc1920d1
+rock,Nirvana,5b11f4ce-a62d-471e-81fc-a69a8278c7da
+rock,Pearl Jam,83b9cbe7-9857-49e2-ab8e-b57b01038103
+rock,Red Hot Chili Peppers,8bfac288-ccc5-448d-9573-c33ea2aa5c30
+rock,Foo Fighters,67f66c07-6e61-4026-ade5-7e782fad3a5d
+rock,Green Day,084308bd-1654-436f-ba03-df6697104e19
+rock,Goo Goo Dolls,e2c00c56-8365-4160-9f40-a64682917633
+rock,Matchbox Twenty,75af9d25-cf32-49c0-9192-60bd8e9784e6
+rock,Third Eye Blind,92a42e82-b36f-4308-82c1-68bad2e03c89
+rock,Linkin Park,f59c5520-5f46-4d2c-b2c4-822eabf53419
+rock,Nickelback,bc710bcf-8815-42cf-bad2-3f1d12246aeb
+rock,The Killers,95e1ead9-4d31-4808-a7ac-32c3614c116b
+rock,Kings of Leon,6ffb8ea9-2370-44d8-b678-e9237bbd347b
+rock,Imagine Dragons,012151a8-0f9a-44c9-997f-ebd68b5389f9
+rock,Coldplay,cc197bad-dc9c-440d-a5b5-d52ba2e14234
+rock,Lynyrd Skynyrd,c544ed4d-2390-4442-a83e-1ea2883b09c8
+rock,Creedence Clearwater Revival,109958eb-a335-4c5e-907e-597ff4c6af46
+rock,The Black Keys,d15721d8-56b4-453d-b506-fc915b14cba2
+country,Dolly Parton,1d543e07-d0d2-4834-a8db-d65c50c2a856
+country,Willie Nelson,668fd73c-bf54-4310-a139-305517f05311
+country,Johnny Cash,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+country,Waylon Jennings,1a46826b-4d73-4e04-8590-f36c9d832f9e
+country,Kenny Rogers,c3d14b41-a48d-488f-bfed-ce0597bb0b1f
+country,Alabama,7ac055fa-e357-4890-9098-010b8094a900
+country,George Strait,5ab2cf34-517e-48eb-b3a5-34e1cbcd600a
+country,Reba McEntire,3ec17e85-9284-4f4c-8831-4e56c2354cdb
+country,Randy Travis,09b697e3-a849-4670-ae49-e0b821a6271a
+country,Garth Brooks,b76645c5-78b0-4e4c-8f95-003f40013a45
+country,Alan Jackson,7291957b-c463-4275-a41c-a104c9e2337f
+country,Brooks & Dunn,f30118c5-f783-4969-8427-f3c096378267
+country,Tim McGraw,7e5cfc9a-e9e1-46f1-b81a-861b12049488
+country,Faith Hill,406552d4-5ba1-4226-b7c0-367bc50fc767
+country,Toby Keith,2f951906-5629-4fef-a260-5033151c162a
+country,Kenny Chesney,5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+country,The Chicks,3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+country,Brad Paisley,6cfd7ffc-824f-4219-8e27-4b9417700f44
+country,Keith Urban,f45da029-7b00-4bf3-962c-0eeb20309cc4
+country,Carrie Underwood,70f0e309-5418-49b6-a130-666e2f76eecd
+country,Rascal Flatts,6e0ae159-8449-4262-bba5-18ec87fa529f
+country,Blake Shelton,2ad66473-ccb3-41d2-8756-b56680cdfe62
+country,Miranda Lambert,4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c
+country,Luke Bryan,aab35942-f176-4f77-bbf9-1d6aa98ccf3f
+country,Jason Aldean,f24df11a-7e35-4979-a4db-a3b2a170ce27
+country,Zac Brown Band,507226f4-0842-4f43-950e-81a7017230ec
+country,Eric Church,15856215-cc51-4423-879c-9ac955ccb11a
+country,Florida Georgia Line,c16817df-0160-490d-a437-c128cbca9218
+country,Chris Stapleton,71d58182-aa37-4c04-b21a-efe46ea0f221
+country,Hank Williams, Jr.,1d8010a0-b642-4c8f-9c8d-8dc66b7bb81a
+country,Big & Rich,9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec
+country,Little Big Town,76e78b58-f301-4975-8058-7f84d8360738
+rap,Run‐D.M.C.,5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+rap,Beastie Boys,9beb62b2-88db-4cea-801e-162cd344ee53
+rap,LL Cool J,a4dd0e77-83b8-4e92-89b7-effb0e47fd8c
+rap,Public Enemy,bf2e15d0-4b77-469e-bfb4-f8414415baca
+rap,N.W.A,3a54bffa-2314-44a2-927b-60144119c780
+rap,Dr. Dre,5f6ab597-f57a-40da-be9e-adad48708203
+rap,Snoop Dogg,f90e8b26-9e52-4669-a5c9-e28529c47894
+rap,Ice Cube,1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2
+rap,2Pac,382f1005-e9ab-4684-afd4-0bdae4ee37f2
+rap,The Notorious B.I.G.,d5d97b2b-b83b-4976-814a-056d9076c8c3
+rap,JAŸ-Z,f82bcf78-5b69-4622-a5ef-73800768d9ac
+rap,Nas,cfbc0924-0035-4d6c-8197-f024653af823
+rap,Wu‐Tang Clan,0febdcf7-4e1f-4661-9493-b40427de2c13
+rap,OutKast,73fdb566-a9b1-494c-9f32-51768ec9fd27
+rap,Eminem,b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+rap,50 Cent,8e68819d-71be-4e7d-b41d-f1df81b01d3f
+rap,Missy Elliott,a0b8cb9e-7532-45fe-a74c-30e7c4009a39
+rap,Lil Wayne,ac9a487a-d9d2-4f27-bb23-0f4686488345
+rap,Ye,164f0d73-1234-4e2c-8743-d77bf2191051
+rap,Ludacris,0638ba22-040f-438d-83a5-9b670c4adaf5
+rap,Nelly,811900b2-68fc-4d41-8bad-69b7a1f4d628
+rap,T.I.,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62
+rap,DMX,f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
+rap,Busta Rhymes,10a9ff92-9637-4498-afea-7044b2ab0dc0
+rap,A Tribe Called Quest,9689aa5a-4471-4fb4-9721-07cecda0fa9f
+rap,Drake,9fff2f8a-21e6-47de-a2b8-7f449929d43f
+rap,Kendrick Lamar,381086ea-f511-4aba-bdf9-71c753dc5077
+rap,J. Cole,875203e1-8e58-4b86-8dcb-7190faf411c5
+rap,Nicki Minaj,1036b808-f58c-4a3e-b461-a2c4492ecf1b
+rap,Salt‐N‐Pepa,26bcd35d-56a3-4e4d-8ad7-7bc5787c3af1
+rap,Bone Thugs‐n‐Harmony,2fa45bbb-0efb-4950-9d40-94bf23cbfec1
+rap,Coolio,cc30e630-8c75-4d78-b205-8e2edc6bdaa7
+country rap,Kid Rock,ad0ecd8b-805e-406e-82cb-5b00c3a3a29e
+country rap,Big & Rich,9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec
+country rap,Colt Ford,52730e29-8ffa-43b3-a341-8750f3d1496e
+country rap,Cowboy Troy,a83c4c5e-8711-4ab1-bfca-c250ce303ed4
+country rap,Jason Aldean,f24df11a-7e35-4979-a4db-a3b2a170ce27
+country rap,Bubba Sparxxx,28438dd9-6244-4627-aa42-f9749c4fde08
+country rap,Yelawolf,13513a8a-e9a8-4367-b9e4-410fef5bed3a
+country rap,Moonshine Bandits,7608c545-8638-4a1f-bf3f-ec67350d4843
+country rap,The Lacs,b0b9093d-fa6b-40a4-9ec0-71513164d930
+country rap,Jelly Roll,ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32
+country rap,Upchurch,513602fe-202a-4583-afb9-2a2aca8af55b
+country rap,Demun Jones,fd46bf8c-fcba-4a87-a08d-47ceaa15560d
+country rap,Lenny Cooper,3c8fefab-364c-4ad8-b6c9-b725b5ee3b6a
+country rap,Mikel Knight,4768b664-b49c-42bc-bfe4-d98f554f7a7d
+country rap,Struggle Jennings,1b45e732-0391-4a2b-a72c-afd3b4de4eb1
+country rap,Nelly,811900b2-68fc-4d41-8bad-69b7a1f4d628
+country rap,BRELAND,9c3601d4-2630-4330-8a08-28c7354b081a
+country rap,Blanco Brown,46b04bfe-70da-428e-9b7d-1f444f3446a4
